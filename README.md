@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/mhamadYaseen/mhamadYaseen/refs/heads/main/web-developer-header.webp" alt="GitHub Banner" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/mhamadYaseen/mhamadYaseen/refs/heads/main/web-developer-header.webp" alt="GitHub Banner" width="100%" height="200">
 </p>
 
 # Hi 👋, I'm Mhamad Yaseen
