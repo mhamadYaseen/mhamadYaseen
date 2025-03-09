@@ -24,7 +24,7 @@
 ### 🛠 Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="Laravel"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="Laravel Logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -41,14 +41,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamadYaseen&layout=compact&theme=radical)
 
 ---
-
-### 🎵 Music Playing:
-[![Spotify](https://novatorem-mhamadYaseen.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
-
----
-
-### 🏆 GitHub Trophies:
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mhamadYaseen&theme=onedark&margin-w=15)
 
 ---
 
