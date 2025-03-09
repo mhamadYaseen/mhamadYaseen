@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-link.com" alt="GitHub Banner" width="100%" height="150">
+<img src="https://your-banner-image-link.com" alt="GitHub Banner" width="100%" height="150">
 </p>
 
 # Hi 👋, I'm Mhamad Yaseen
