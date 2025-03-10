@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Mhamad Yaseen
 
-## 💻 Passionate Software Developer from Erbil
+## 💻 Passionate Web Developer from Erbil
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Laravel, and Full-Stack Web Development**
