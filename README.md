@@ -6,16 +6,23 @@
 <h3 align="center">🚀 Software Engineering Student & Laravel Developer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=26A5E4&center=true&vCenter=true&width=435&lines=Laravel+Backend+Developer;Building+RESTful+APIs;Full+Stack+Web+Dev;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=26A5E4&center=true&vCenter=true&width=435&lines=Laravel+Backend+Developer;Building+Scalable+Web+Applications;Software+Engineering+Student;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://muhammad-soft.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Laravel, and Full-Stack Web Development**.
-- 🌱 I’m always learning **Software Architecture and Advanced Web Patterns**.
-- 👯 I’m looking to collaborate on **Laravel Projects**.
+- 🔭 I'm currently working on **Laravel, and Full-Stack Web Development**.
+- 🌱 I'm always learning **Software Architecture and Advanced Web Patterns**.
+- 👯 I'm looking to collaborate on **Laravel Projects**.
 - 💬 Ask me about **Laravel, MySQL, and Web Development**.
+- 🌐 Visit my portfolio: **[muhammad-soft.vercel.app](https://muhammad-soft.vercel.app)**
 - 📫 How to reach me: **mhamadyaseen269@gmail.com**
 
 ---
@@ -64,8 +71,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhamadYaseen&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamadYaseen&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhamadYaseen&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamadYaseen&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
 </div>
 
 <div align="center">
@@ -73,15 +80,57 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamadYaseen&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhamadYaseen&theme=radical" alt="GitHub Contribution Graph" />
+</div>
+
+---
+
+### 📈 Contribution Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamadYaseen&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhamadYaseen&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhamadYaseen&theme=radical" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhamadYaseen&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhamadYaseen&theme=radical" alt="Productive Time" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhamadYaseen&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ### 🌐 Connect with Me
+
 <div align="center">
+<a href="https://muhammad-soft.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/mhamad-yaseen/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mhamad yaseen" /></a>
 <a href="https://github.com/mhamadYaseen" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="mhamad yaseen" /></a>
 <a href="https://t.me/Mhamadyaseen" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="mhamad yaseen" /></a>
+<a href="mailto:mhamadyaseen269@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
+---
+
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=mhamadYaseen&color=blue&style=flat-square&label=Profile+Views" alt="mhamad yaseen" />
+ <img src="https://komarev.com/ghpvc/?username=mhamadYaseen&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+ <img src="https://img.shields.io/github/followers/mhamadYaseen?label=Followers&style=flat-square&color=blue" alt="Followers" />
+ <img src="https://img.shields.io/github/stars/mhamadYaseen?label=Total%20Stars&style=flat-square&color=yellow" alt="Total Stars" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
