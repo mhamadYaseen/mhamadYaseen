@@ -71,19 +71,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhamadYaseen&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamadYaseen&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamadYaseen&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhamadYaseen&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages graph" />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamadYaseen&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhamadYaseen&theme=radical" alt="GitHub Contribution Graph" />
-</div>
 
 ---
 
