@@ -11,7 +11,7 @@
 
 <!-- ================= QUICK CONTACT & LINKS ================= -->
 <p align="center">
-  <a href="[https://muhammad-soft.vercel.app](https://muhammad-yaseen.dev/)" target="_blank">
+  <a href="https://muhammad-yaseen.dev" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mhamad-yaseen/" target="_blank">
