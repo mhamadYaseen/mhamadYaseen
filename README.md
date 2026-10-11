@@ -151,7 +151,7 @@ interests: [Backend Systems, Systems Programming, Clean Architecture, Open Sourc
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamadYaseen&bg_color=0d1117&color=26A5E4&line=26A5E4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Commit%20Activity" width="98%" alt="Contribution Graph" />
+  <img src="https://github.com/user-attachments/assets/b5419665-8550-40ac-877c-aa39f9a8b272" width="98%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -159,7 +159,7 @@ interests: [Backend Systems, Systems Programming, Clean Architecture, Open Sourc
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhamadYaseen&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github.com/user-attachments/assets/b5419665-8550-40ac-877c-aa39f9a8b272" alt="GitHub Trophies" width="98%" />
 </div>
 
 ---
@@ -172,10 +172,6 @@ interests: [Backend Systems, Systems Programming, Clean Architecture, Open Sourc
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhamadYaseen/mhamadYaseen/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mhamadYaseen/mhamadYaseen/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b5419665-8550-40ac-877c-aa39f9a8b272" alt="Contribution Section Preview" width="98%" />
 </p>
 
 ---
