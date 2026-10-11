@@ -151,7 +151,7 @@ interests: [Backend Systems, Systems Programming, Clean Architecture, Open Sourc
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamadYaseen&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Commit%20Activity" width="98%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamadYaseen&bg_color=0d1117&color=26A5E4&line=26A5E4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Commit%20Activity" width="98%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -159,7 +159,7 @@ interests: [Backend Systems, Systems Programming, Clean Architecture, Open Sourc
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhamadYaseen&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mhamadYaseen&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -178,7 +178,7 @@ interests: [Backend Systems, Systems Programming, Clean Architecture, Open Sourc
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhamadYaseen&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mhamadYaseen&label=Profile%20Views&color=26A5E4&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mhamadYaseen?label=Followers&style=flat-square&color=26A5E4" alt="Followers" />
   <img src="https://img.shields.io/github/stars/mhamadYaseen?label=Total+Stars&style=flat-square&color=yellow" alt="Total Stars" />
 </p>
