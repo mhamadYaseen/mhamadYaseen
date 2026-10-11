@@ -174,6 +174,10 @@ interests: [Backend Systems, Systems Programming, Clean Architecture, Open Sourc
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b5419665-8550-40ac-877c-aa39f9a8b272" alt="Contribution Section Preview" width="98%" />
+</p>
+
 ---
 
 <!-- ================= FOOTER ================= -->
